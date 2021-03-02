@@ -26,45 +26,87 @@ Oblique coverage from all directions</description>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>MA_004</name>
+			<name>MA_004_START</name>
 			<description>Sagamore Bridge</description>
 			<Point>
 				<coordinates>-70.542155,41.779528</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>MA_005</name>
+			<name>MA_004_STOP</name>
+			<description>Sagamore Bridge</description>
+			<Point>
+				<coordinates>-70.542442,41.7735</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_005_START</name>
 			<description>Bourne Bridge</description>
 			<Point>
 				<coordinates>-70.592629,41.749577</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>MA_006</name>
+			<name>MA_005_STOP</name>
+			<description>Bourne Bridge</description>
+			<Point>
+				<coordinates>-70.589878,41.744226</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_006_START</name>
 			<description>The North Shore Coast from the Center of Plum Island North to New Hampshire Border</description>
 			<Point>
 				<coordinates>-70.805175,42.790022</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>MA_007</name>
+			<name>MA_006_STOP</name>
+			<description>The North Shore Coast from the Center of Plum Island North to New Hampshire Border</description>
+			<Point>
+				<coordinates>-70.814239,42.872108</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_007_START</name>
 			<description>East end of the Canal in Sandwich southeast to Scorton inlet</description>
 			<Point>
 				<coordinates>-70.425069,41.751397</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>MA_008</name>
+			<name>MA_007_STOP</name>
+			<description>East end of the Canal in Sandwich southeast to Scorton inlet</description>
+			<Point>
+				<coordinates>-70.492144,41.776439</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_008_START</name>
 			<description>Chatham from the south end of the old inlet north across the new breaches to the barier off Pleasant Bay</description>
 			<Point>
 				<coordinates>-69.950217,41.637472</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>MA_009</name>
+			<name>MA_008_STOP</name>
+			<description>Chatham from the south end of the old inlet north across the new breaches to the barier off Pleasant Bay</description>
+			<Point>
+				<coordinates>-69.920392,41.748094</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_009_START</name>
 			<description>Plymouth Long Beach</description>
 			<Point>
 				<coordinates>-70.627383,41.946456</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_009_STOP</name>
+			<description>Plymouth Long Beach</description>
+			<Point>
+				<coordinates>-70.65135,41.980167</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -415,10 +457,17 @@ Oblique coverage from all directions (e.g. a circle around the airport)</descrip
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>MA_059</name>
+			<name>MA_059_START</name>
 			<description>Plum Island</description>
 			<Point>
 				<coordinates>-70.778714,42.700669</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_059_STOP</name>
+			<description>Plum Island</description>
+			<Point>
+				<coordinates>-70.81305,42.825664</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>

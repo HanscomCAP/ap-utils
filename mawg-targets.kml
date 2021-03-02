@@ -10,11 +10,19 @@ Circle Around Location</description>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>MA_2</name>
+			<name>MA_2_START</name>
 			<description>Route 6 Corridor
 Nadir</description>
 			<Point>
 				<coordinates>-70.120194,41.679944</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_2_STOP</name>
+			<description>Route 6 Corridor
+Nadir</description>
+			<Point>
+				<coordinates>-70.957222,41.636333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>

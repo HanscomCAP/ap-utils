@@ -64,6 +64,14 @@ def MakeStandardName(name, state):
         return parts[0] + '_' + parts[1]
     return state.strip(' ') + '_' + name
 
+def MakePlacemark(folder, name, description, longitude, latitude):
+    placemark = ET.SubElement(folder, 'Placemark')
+    ET.SubElement(placemark, 'name').text = name
+    ET.SubElement(placemark, 'description').text = description
+    point = ET.SubElement(placemark, 'Point')
+    ET.SubElement(point, 'coordinates').text = MakeCoordinates(longitude, latitude)
+    return placemark
+
 def ProcessFile(filename):
     kml = ET.Element('kml', {'xmlns': 'http://www.opengis.net/kml/2.2'})
     # The XML document uses a Folder element containing a number of Placemark elements. Here we create the Folder.
@@ -91,9 +99,13 @@ def ProcessFile(filename):
                     elif (heading == 'special instructions'):
                         instCol = colNum
                     elif (heading == 'start longitude'):
-                        longCol = colNum
+                        startLongCol = colNum
                     elif (heading == 'start latitude'):
-                        latCol = colNum
+                        startLatCol = colNum
+                    elif (heading == 'stop longitude'):
+                        stopLongCol = colNum
+                    elif (heading == 'stop latitude'):
+                        stopLatCol = colNum
                     colNum += 1
                 firstrow = False
                 continue
@@ -104,14 +116,16 @@ def ProcessFile(filename):
             #    <description>DESCRIPTION</description>
             #    <Point><coordinates>LONG,LAT</coordinates></Point>
             # </Placemark>
-            placemark = ET.SubElement(folder, 'Placemark')
-            ET.SubElement(placemark, 'name').text = MakeStandardName(row[idCol], row[stateCol])
+            name = MakeStandardName(row[idCol], row[stateCol])
             description = row[descCol]
             if (row[instCol] != ''):
                 description = description + '\n' + row[instCol]
-            ET.SubElement(placemark, 'description').text = description
-            point = ET.SubElement(placemark, 'Point')
-            ET.SubElement(point, 'coordinates').text = MakeCoordinates(row[longCol], row[latCol])
+
+            if (row[stopLongCol] == ''): # Single Waypoint
+                MakePlacemark(folder, name, description, row[startLongCol], row[startLatCol])
+            else: # Start and Stop Waypoints
+                MakePlacemark(folder, name + '_START', description, row[startLongCol], row[startLatCol])
+                MakePlacemark(folder, name + '_STOP', description, row[stopLongCol], row[stopLatCol])
 
     dom = minidom.parseString(ET.tostring(kml))
     kmlfilename = os.path.splitext(filename)[0] + '.kml'
