@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Folder xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+		<Placemark>
+			<name>MA_001</name>
+			<description>Boston IR Network Site
+Oblique coverage from 3 sides of the antennas on the roof penthouse</description>
+			<Point>
+				<coordinates>-71.073027,42.341824</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_002</name>
+			<description>Mashpee Wampanoag - Tribal Government Office
+Oblique coverage from all directions</description>
+			<Point>
+				<coordinates>-70.476021,41.595735</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_003</name>
+			<description>Wampanoag Tribe of Gay Head (Aquinnah) of Massachusetts - Tribal Government Office
+Oblique coverage from all directions</description>
+			<Point>
+				<coordinates>-70.79974,41.33127</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_004</name>
+			<description>Sagamore Bridge</description>
+			<Point>
+				<coordinates>-70.542155,41.779528</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_005</name>
+			<description>Bourne Bridge</description>
+			<Point>
+				<coordinates>-70.592629,41.749577</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_006</name>
+			<description>The North Shore Coast from the Center of Plum Island North to New Hampshire Border</description>
+			<Point>
+				<coordinates>-70.805175,42.790022</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_007</name>
+			<description>East end of the Canal in Sandwich southeast to Scorton inlet</description>
+			<Point>
+				<coordinates>-70.425069,41.751397</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_008</name>
+			<description>Chatham from the south end of the old inlet north across the new breaches to the barier off Pleasant Bay</description>
+			<Point>
+				<coordinates>-69.950217,41.637472</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_009</name>
+			<description>Plymouth Long Beach</description>
+			<Point>
+				<coordinates>-70.627383,41.946456</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_010</name>
+			<description>US Dept of Agriculture APHIS Pest Survey Detection and Exclusion Laboratory
+Oblique coverage from all directions</description>
+			<Point>
+				<coordinates>-70.55604,41.657</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_011</name>
+			<description>Barnstable Municipal Airport
+Oblique coverage from all directions (e.g. a circle around the airport)</description>
+			<Point>
+				<coordinates>-70.2874566,41.6655056</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_012</name>
+			<description>Boston Logan International Airport (BOS)
+Oblique coverage from all directions (e.g. a circle around the airport)</description>
+			<Point>
+				<coordinates>-71.02089,42.36678</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_013</name>
+			<description>L.G. Hanscom Field
+Oblique coverage from all directions (e.g. a circle around the airport)</description>
+			<Point>
+				<coordinates>-71.2907531,42.4624057</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_014</name>
+			<description>Wachusett Dam</description>
+			<Point>
+				<coordinates>-71.6881,42.40367</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_015</name>
+			<description>Exelon - Fore River Generating Plant</description>
+			<Point>
+				<coordinates>-70.962091,42.24287</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_016</name>
+			<description>Salem Harbor Station - Dominion</description>
+			<Point>
+				<coordinates>-70.8799011,42.5264977</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_017</name>
+			<description>American National Power Backstone 345kV Substation</description>
+			<Point>
+				<coordinates>-71.5212778,42.0517292</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_018</name>
+			<description>Independent System Operator - New England (ISO-NE) Control Center</description>
+			<Point>
+				<coordinates>-72.63833,42.18576</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_019</name>
+			<description>Exelon Corp. Mystic Substation</description>
+			<Point>
+				<coordinates>-71.06695,42.39304</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_020</name>
+			<description>American National Power Bellingham 345 kV Substation</description>
+			<Point>
+				<coordinates>-71.4234973,42.153315</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_021</name>
+			<description>Barnstable Substation 345kV</description>
+			<Point>
+				<coordinates>-70.284755,41.685981</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_022</name>
+			<description>Carver 345 kV Substation </description>
+			<Point>
+				<coordinates>-70.788367,41.898067</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_023</name>
+			<description>Sandy Pond 237 Substation</description>
+			<Point>
+				<coordinates>-71.5310141,42.5688701</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_024</name>
+			<description>FEMA Federal Regional Operations Center (ROC)</description>
+			<Point>
+				<coordinates>-71.44808,42.41102</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_025</name>
+			<description>Conley Container Terminal - Port of Boston</description>
+			<Point>
+				<coordinates>-71.0245055,42.3394489</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_026</name>
+			<description>Steamship Authority - Woods Hole</description>
+			<Point>
+				<coordinates>-70.66957,41.523237</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_027</name>
+			<description>Steamship Authority - Oak Bluffs</description>
+			<Point>
+				<coordinates>-70.554543,41.462283</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_028</name>
+			<description>Steamship Authority - New Bedford</description>
+			<Point>
+				<coordinates>-70.9243727,41.6359245</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_029</name>
+			<description>Steamship Authority - Tisbury - Vineyard Haven</description>
+			<Point>
+				<coordinates>-70.672989,41.53531</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_030</name>
+			<description>Steamship Authority - Hyannis</description>
+			<Point>
+				<coordinates>-70.2764372,41.6519007</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_031</name>
+			<description>Steamship Authority - Nantucket</description>
+			<Point>
+				<coordinates>-70.097224,41.285678</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_032</name>
+			<description>Black Falcon Cruise Terminal</description>
+			<Point>
+				<coordinates>-71.0396,42.3460015</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_033</name>
+			<description>Port of Boston</description>
+			<Point>
+				<coordinates>-71.0199,42.3409</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_034</name>
+			<description>MBTA - North Station</description>
+			<Point>
+				<coordinates>-71.061154,42.36549</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_035</name>
+			<description>Cape Cod Regional Transit Authority Hyannis Transportation Center</description>
+			<Point>
+				<coordinates>-70.27738,41.66091</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_036</name>
+			<description>MBTA - South Station</description>
+			<Point>
+				<coordinates>-71.05511,42.35181</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_037</name>
+			<description>Otis Air National Guard Base</description>
+			<Point>
+				<coordinates>-70.5157167,41.6480963</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_038</name>
+			<description>US Coast Guard Base</description>
+			<Point>
+				<coordinates>-71.0525523,42.3672214</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_039</name>
+			<description>Hanscom Air Force Base</description>
+			<Point>
+				<coordinates>-71.2736719,42.4607697</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_040</name>
+			<description>Salem LNG</description>
+			<Point>
+				<coordinates>-70.8870352,42.5347515</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_041</name>
+			<description>Distrigas of Massachusetts LLC Everett Marine LNG Terminal</description>
+			<Point>
+				<coordinates>-71.0601,42.3954</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_042</name>
+			<description>Bosfuel / Swissport Fueling Inc. </description>
+			<Point>
+				<coordinates>-71.025015,42.3754626</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_043</name>
+			<description>CSXI Stackbridge Terminal </description>
+			<Point>
+				<coordinates>-71.8097157,42.249465</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_044</name>
+			<description>CSXI Marshalling &amp; Switching Yard</description>
+			<Point>
+				<coordinates>-71.4201084,42.2794678</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_045</name>
+			<description>MWRA Cosgrove Intake and Power Station</description>
+			<Point>
+				<coordinates>-71.684819,42.396153</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_046</name>
+			<description>Central Artery / Tunnel Project</description>
+			<Point>
+				<coordinates>-71.05974197,42.34611159</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_047</name>
+			<description>Callahan Tunnel</description>
+			<Point>
+				<coordinates>-71.0433,42.3695</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_048</name>
+			<description>Sumner Tunnel</description>
+			<Point>
+				<coordinates>-71.04662,42.3683</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_049</name>
+			<description>John Greenleaf Whittier Bridge</description>
+			<Point>
+				<coordinates>-70.9111304,42.8348616</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_050</name>
+			<description>Tobin Memorial Bridge</description>
+			<Point>
+				<coordinates>-71.023386,42.3666595</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_051</name>
+			<description>Raytheon Headquarters</description>
+			<Point>
+				<coordinates>-71.2139794,42.3713298</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_052</name>
+			<description>MWRA Bear Hill Tank</description>
+			<Point>
+				<coordinates>-71.1069,42.4653</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_053</name>
+			<description>MWRA Deer Island Wastewater Treatment Plant (DITP)</description>
+			<Point>
+				<coordinates>-70.95821,42.35141</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_054</name>
+			<description>MWRA John J. Carroll Water Treatment Facility</description>
+			<Point>
+				<coordinates>-71.58518,42.31134</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_055</name>
+			<description>MIT Lincoln Labs</description>
+			<Point>
+				<coordinates>-71.26721,42.45981</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_056</name>
+			<description>Conant Brook Dam</description>
+			<Point>
+				<coordinates>-72.290054,42.073977</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_057</name>
+			<description>Westville Dam</description>
+			<Point>
+				<coordinates>-72.058558,42.082808</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_058</name>
+			<description>Barre Falls Dam</description>
+			<Point>
+				<coordinates>-72.025584,42.428002</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_059</name>
+			<description>Plum Island</description>
+			<Point>
+				<coordinates>-70.778714,42.700669</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_060</name>
+			<description>Cape Cod Canal Railroad Bridge</description>
+			<Point>
+				<coordinates>-70.613542,41.741981</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_061</name>
+			<description>Braga Bridge</description>
+			<Point>
+				<coordinates>-71.170144,41.709039</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_062</name>
+			<description>195 Bridge</description>
+			<Point>
+				<coordinates>-70.917714,41.654775</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_063</name>
+			<description>Fox Point Hurricane Barrier</description>
+			<Point>
+				<coordinates>-71.401722,41.815933</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_064</name>
+			<description> Arlington-Turkey Hill
+Tower Height 70'</description>
+			<Point>
+				<coordinates>-71.17327777777778,42.43241666666666</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_065</name>
+			<description>Acushnet-Mendal Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-70.883325,41.70075</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_066</name>
+			<description>Adams Mt Greylock WTEN</description>
+			<Point>
+				<coordinates>-73.16836,42.6371</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_067</name>
+			<description>Adams-Mt Greylock MSP (Analog)
+Tower Height 20'</description>
+			<Point>
+				<coordinates>-73.16553055555556,42.63626111111111</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_068</name>
+			<description>Amesbury-Pow Wow Hill
+Tower Height 95'</description>
+			<Point>
+				<coordinates>-70.93900000000001,42.86552777777778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_069</name>
+			<description>Andover-Holt Hill Andover
+Tower Height 160'</description>
+			<Point>
+				<coordinates>-71.10699722222222,42.641444444444446</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_070</name>
+			<description>Athol-Adams Hill
+Tower Height 160'</description>
+			<Point>
+				<coordinates>-72.1964888888889,42.593975</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_071</name>
+			<description>Attleboro-Tower Site Rd
+Tower Height 180'</description>
+			<Point>
+				<coordinates>-71.3116111111111,41.9295</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_072</name>
+			<description>Becket</description>
+			<Point>
+				<coordinates>-73.13211,42.27719</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_073</name>
+			<description>Blandford</description>
+			<Point>
+				<coordinates>-73.0144,42.17173</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_074</name>
+			<description>Boston Schroeder Plaza BPD</description>
+			<Point>
+				<coordinates>-71.0899111111111,42.334575</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_075</name>
+			<description>Boston-Bellevue Hill
+Tower Height 100'</description>
+			<Point>
+				<coordinates>-71.14394444444446,42.27344444444444</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_076</name>
+			<description>Boston-Brighton High School
+Tower Height 95'</description>
+			<Point>
+				<coordinates>-71.14619444444445,42.3492</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_077</name>
+			<description>Boston-Engine 55
+Tower Height 40'</description>
+			<Point>
+				<coordinates>-71.15508333333334,42.26402777777778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_078</name>
+			<description>Boston-Lincoln Street
+Tower Height 495'</description>
+			<Point>
+				<coordinates>-71.0586111111111,42.35277777777778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_079</name>
+			<description>Boston-McCormick Building
+Tower Height 299'</description>
+			<Point>
+				<coordinates>-71.06247777777777,42.35969444444444</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_080</name>
+			<description>Bourne-Fire Tower
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-70.56988888888888,41.77388888888889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_081</name>
+			<description>Brewster-SBA
+Tower Height 470'</description>
+			<Point>
+				<coordinates>-70.0098888888889,41.776916666666665</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_082</name>
+			<description>Bridgewater-DOC
+Tower Height 70'</description>
+			<Point>
+				<coordinates>-70.95727777777778,41.94666944444444</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_083</name>
+			<description>Bridgewater-MEMA
+Tower Height 130'</description>
+			<Point>
+				<coordinates>-70.9516388888889,41.94438888888889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_084</name>
+			<description>Brimfield-Steerage Rock
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-72.22423611111111,42.142025</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_085</name>
+			<description>Canton-Blue Hill MSP</description>
+			<Point>
+				<coordinates>-71.11502777777777,42.21175</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_086</name>
+			<description>Charlemont Berkshire East</description>
+			<Point>
+				<coordinates>-72.87012,42.61401</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_087</name>
+			<description>Charlton-Fire Tower
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-71.97166666666666,42.16861111111111</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_088</name>
+			<description>Charlton-MDOT
+Tower Height 180'</description>
+			<Point>
+				<coordinates>-71.9718,42.169041666666665</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_089</name>
+			<description>Chelmsford-Robbins Hill
+Tower Height 65'</description>
+			<Point>
+				<coordinates>-71.3649361111111,42.58499444444445</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_090</name>
+			<description>Chester DCR Garage</description>
+			<Point>
+				<coordinates>-72.92358333333334,42.246972222222226</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_091</name>
+			<description>Chester Fire Tower</description>
+			<Point>
+				<coordinates>-72.95741666666667,42.32469444444445</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_092</name>
+			<description>Chesterfield SBA</description>
+			<Point>
+				<coordinates>-72.79872188,42.36122222</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_093</name>
+			<description>Colrain NEU</description>
+			<Point>
+				<coordinates>-72.68301,42.66817</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_094</name>
+			<description>Cummington</description>
+			<Point>
+				<coordinates>-72.91675000000001,42.47752222222223</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_095</name>
+			<description>Danvers AHQ</description>
+			<Point>
+				<coordinates>-70.96869444444445,42.58577777777778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_096</name>
+			<description>East Brookfield Connie Mack Drive</description>
+			<Point>
+				<coordinates>-72.05227,42.22542</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_097</name>
+			<description>Essex-Morse Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-70.75891666666666,42.60135277777778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_098</name>
+			<description>Fall River-Copicut Hill
+Tower Height 180'</description>
+			<Point>
+				<coordinates>-71.05966666666666,41.72105555555556</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_099</name>
+			<description>Fitchburg-Rollstone Hill
+Tower Height 120'</description>
+			<Point>
+				<coordinates>-71.81022222222222,42.579638888888894</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_100</name>
+			<description>Framingham-DOC
+Tower Height 50'</description>
+			<Point>
+				<coordinates>-71.40556388888889,42.26558333333333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_101</name>
+			<description>Framingham-GHQ
+Tower Height 180'</description>
+			<Point>
+				<coordinates>-71.41511111111112,42.29544444444444</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_102</name>
+			<description>Framingham-Nobscott
+Tower Height 220'</description>
+			<Point>
+				<coordinates>-71.4508888888889,42.34536111111111</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_103</name>
+			<description>Georgetown-Long Hill 
+Tower Height 150'</description>
+			<Point>
+				<coordinates>-70.95477777777778,42.71716666666667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_104</name>
+			<description>Goshen Fire Station</description>
+			<Point>
+				<coordinates>-72.80006944444445,42.44327777777777</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_105</name>
+			<description>Granville ATC</description>
+			<Point>
+				<coordinates>-72.92589,42.08783</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_106</name>
+			<description>Granville Birch Hill</description>
+			<Point>
+				<coordinates>-72.89308,42.09468</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_107</name>
+			<description>Great Barrington Butternut</description>
+			<Point>
+				<coordinates>-73.31327,42.17267</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_108</name>
+			<description>Hadley-Mt Tom (Analog)
+Tower Height 180'</description>
+			<Point>
+				<coordinates>-72.64494444444445,42.24977777777778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_109</name>
+			<description>Hanson-Industrial Blvd
+Tower Height 300'</description>
+			<Point>
+				<coordinates>-70.9,42.04888888888889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_110</name>
+			<description>Harvard-Pinnacle Rd
+Tower Height 65'</description>
+			<Point>
+				<coordinates>-71.55869444444444,42.504730555555554</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_111</name>
+			<description>Harwich-Rte 39 WT
+124' Catwalk 147'  top of Tank</description>
+			<Point>
+				<coordinates>-70.049925,41.69501944444444</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_112</name>
+			<description>Haverhill-Lovers Lane 
+Tower Height 120'</description>
+			<Point>
+				<coordinates>-71.05821388888889,42.807138888888886</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_113</name>
+			<description>Holden CHQ</description>
+			<Point>
+				<coordinates>-71.83608333333333,42.33813888888889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_114</name>
+			<description>Holden MSP Tower</description>
+			<Point>
+				<coordinates>-71.83585555555555,42.338322222222224</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_115</name>
+			<description>Holland Route 49</description>
+			<Point>
+				<coordinates>-72.145,42.06994</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_116</name>
+			<description>Holyoke Mt Tom</description>
+			<Point>
+				<coordinates>-72.64497,42.24979</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_117</name>
+			<description>Lenox Lenox Mt</description>
+			<Point>
+				<coordinates>-73.31093,42.39333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_118</name>
+			<description>Mashpee SBA
+Tower Height 250'</description>
+			<Point>
+				<coordinates>-70.48872222222222,41.60377777777778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_119</name>
+			<description>Mendon-Chestnut Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-71.57305555555556,42.065</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_120</name>
+			<description>Middleboro DHQ Shelter/Tower
+Tower Height 330'</description>
+			<Point>
+				<coordinates>-70.94290833333334,41.89320277777778</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_121</name>
+			<description>Middleboro DHQ</description>
+			<Point>
+				<coordinates>-70.94259444444445,41.893819444444446</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_122</name>
+			<description>Milton-Blue Hill DCR
+Tower Height 230'</description>
+			<Point>
+				<coordinates>-71.11368055555555,42.21183055555556</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_123</name>
+			<description>Monson -Hovey Hill
+Tower Height 180'</description>
+			<Point>
+				<coordinates>-72.33880833333333,42.14109166666667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_124</name>
+			<description>Montegue Country Hill
+Tower Height 120'</description>
+			<Point>
+				<coordinates>-72.47586111111112,42.561055555555555</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_125</name>
+			<description>Monterey Mt Wilcox</description>
+			<Point>
+				<coordinates>-73.26601,42.21888</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_126</name>
+			<description>Mt Washington - Mt Darby</description>
+			<Point>
+				<coordinates>-73.45638,42.13256</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_127</name>
+			<description>New Ashford Brodie Mt</description>
+			<Point>
+				<coordinates>-73.27109,42.59794</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_128</name>
+			<description>New Braintree RECC</description>
+			<Point>
+				<coordinates>-72.13455555555556,42.310005555555556</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_129</name>
+			<description>New Braintree-Tower
+Tower Height 225'</description>
+			<Point>
+				<coordinates>-72.13533333333334,42.311749999999996</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_130</name>
+			<description>North Adams</description>
+			<Point>
+				<coordinates>-73.06453,42.69839</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_131</name>
+			<description>North Brookfield Bell Hill</description>
+			<Point>
+				<coordinates>-72.08614,42.28143</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_132</name>
+			<description>Northampton RECC</description>
+			<Point>
+				<coordinates>-72.64010833333334,42.354475</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_133</name>
+			<description>Northampton Shelter/Tower</description>
+			<Point>
+				<coordinates>-72.63951666666668,42.35471944444445</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_134</name>
+			<description>Norwell-Judges Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-70.82138055555555,42.19220555555555</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_135</name>
+			<description>Oxford-Fire Tower
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-71.81416666666667,42.100833333333334</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_136</name>
+			<description>Pelham Mount Lincoln</description>
+			<Point>
+				<coordinates>-72.42319,42.36375</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_137</name>
+			<description>Peru</description>
+			<Point>
+				<coordinates>-73.05354,42.43652</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_138</name>
+			<description>Philipston-Prospect Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-72.17158333333334,42.54438888888889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_139</name>
+			<description>Pittsfield Berry Mt</description>
+			<Point>
+				<coordinates>-73.31557,42.50229</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_140</name>
+			<description>Plainfield NEU</description>
+			<Point>
+				<coordinates>-72.91501,42.52586</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_141</name>
+			<description>Plymouth-Pine Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-70.59007777777778,41.91587777777777</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_142</name>
+			<description>Princeton-Mt Wachusett MDOT Shelter</description>
+			<Point>
+				<coordinates>-71.88650000000001,42.48811111111111</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_143</name>
+			<description>Princeton-Mt Wachusett Parker Lodge</description>
+			<Point>
+				<coordinates>-71.88666666666667,42.48822222222222</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_144</name>
+			<description>Quincy-Industrial
+Tower Height 700'</description>
+			<Point>
+				<coordinates>71.04833333333333,42.246944444444445</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_145</name>
+			<description>Rehoboth-Long Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>71.20197222222222,41.836847222222225</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_146</name>
+			<description>Revere-TF Carroll Way
+Tower Height 60'</description>
+			<Point>
+				<coordinates>-71.02172222222222,42.40947222222222</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_147</name>
+			<description>Russell AT</description>
+			<Point>
+				<coordinates>-72.83805,42.17276</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_148</name>
+			<description>Sandisfield FD </description>
+			<Point>
+				<coordinates>-73.075633,42.089203</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_149</name>
+			<description>Sandwich-Telegraph Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-70.48626388888889,41.73357222222222</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_150</name>
+			<description>Savoy Borden Mt FT</description>
+			<Point>
+				<coordinates>-73.02755,42.60116</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_151</name>
+			<description>Sheffield</description>
+			<Point>
+				<coordinates>-73.36633,42.12822</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_152</name>
+			<description>Shelburne Falls Bray Rd</description>
+			<Point>
+				<coordinates>-72.75299,42.57715</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_153</name>
+			<description>Shelburne Falls RECC</description>
+			<Point>
+				<coordinates>-72.72819722222222,42.59559166666667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_154</name>
+			<description>Shelburne Falls Shelter/Tower</description>
+			<Point>
+				<coordinates>-72.64010833333334,42.595619444444445</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_155</name>
+			<description>Shelburne Mt. Massamet SBA</description>
+			<Point>
+				<coordinates>-72.71163,42.59749</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_156</name>
+			<description>Shelburne-Shelburne Mtn (Analog)
+Tower Height 130'</description>
+			<Point>
+				<coordinates>-72.64464,42.57217</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_157</name>
+			<description>Shirley-DOC</description>
+			<Point>
+				<coordinates>-71.65555555555557,42.52645555555556</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_158</name>
+			<description>Springfield Tower Square</description>
+			<Point>
+				<coordinates>-72.59167,42.10279</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_159</name>
+			<description>Stockbridge FD</description>
+			<Point>
+				<coordinates>-73.3054,42.28224</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_160</name>
+			<description>Sturbridge Sturbridge Barracks</description>
+			<Point>
+				<coordinates>-72.08304722222222,42.111986111111115</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_161</name>
+			<description>Sunderland MT. Toby</description>
+			<Point>
+				<coordinates>-72.53759,42.48803</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_162</name>
+			<description>Tewksbury-MEMA
+Tower Height 150'</description>
+			<Point>
+				<coordinates>-71.22027777777778,42.608472222222225</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_163</name>
+			<description>Tolland-Public Safety</description>
+			<Point>
+				<coordinates>-73.00387777777777,42.080872222222226</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_164</name>
+			<description>Truro-Truro PD
+Tower Height 150'</description>
+			<Point>
+				<coordinates>-70.07488888888888,42.02186111111111</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_165</name>
+			<description>W Barnstable-Clay Hill
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-70.35766666666666,41.68515555555555</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_166</name>
+			<description>W Brookfield-Ragged Hill CATV
+Tower Height 180'</description>
+			<Point>
+				<coordinates>-72.18319444444445,42.28836388888889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_167</name>
+			<description>W Brookfield-Ragged Hill Fire Tower
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-72.18415277777778,42.287755555555556</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_168</name>
+			<description>W. Falmouth-Fire Tower
+Tower Height 68'</description>
+			<Point>
+				<coordinates>-70.61769444444444,41.598</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_169</name>
+			<description>Walpole-DOC
+Tower Height 150'</description>
+			<Point>
+				<coordinates>-71.2881111111111,42.108333333333334</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_170</name>
+			<description>Ware-Quabbin Tower
+Tower Height 60'</description>
+			<Point>
+				<coordinates>-72.33458333333333,42.29886111111111</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_171</name>
+			<description>Warwick Mt Grace</description>
+			<Point>
+				<coordinates>-72.3536111111111,42.69105555555555</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_172</name>
+			<description>Webster-Industrial 
+Tower Height 660'</description>
+			<Point>
+				<coordinates>-71.81777777777778,42.05361111111111</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_173</name>
+			<description>Wellfleet-Gross Hill Rd
+Tower Height 80'</description>
+			<Point>
+				<coordinates>-70.01738888888889,41.94723055555555</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_174</name>
+			<description>Westboro-Mt Nebo
+Tower Height 160'</description>
+			<Point>
+				<coordinates>-71.56725,42.293194444444445</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_175</name>
+			<description>Westfield CCH</description>
+			<Point>
+				<coordinates>-72.6978888888889,42.11168888888889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_176</name>
+			<description>Wilbraham KGI</description>
+			<Point>
+				<coordinates>-72.41021944444445,42.11983333333333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_177</name>
+			<description>Williamsburg</description>
+			<Point>
+				<coordinates>-72.74657,42.40132</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_178</name>
+			<description>Williamstown Greylock High School</description>
+			<Point>
+				<coordinates>-73.23988888888888,42.67188888888889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_179</name>
+			<description>Worcester Millstone Hill City Shelter</description>
+			<Point>
+				<coordinates>-71.78151666666666,42.276805555555555</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_180</name>
+			<description>Worcester Millstone Hill MSP Shelter</description>
+			<Point>
+				<coordinates>-71.78155277777778,42.276691666666665</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_181</name>
+			<description>Worcester-Ballard Truck
+Tower Height 150'</description>
+			<Point>
+				<coordinates>-71.77388888888889,42.221944444444446</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_182</name>
+			<description>Worcester-Millstone Hill Tower
+Tower Height 170'</description>
+			<Point>
+				<coordinates>-71.78152777777778,42.27675</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_183</name>
+			<description>Worcester-Worcester Airport
+Tower Height 40'</description>
+			<Point>
+				<coordinates>-71.8711111111111,42.26972222222222</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_184</name>
+			<description>Wrentham-AT&amp;T
+Tower Height 180'</description>
+			<Point>
+				<coordinates>-71.29218055555555,42.05883333333333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_185</name>
+			<description>Yarmouth-Workshop Rd
+Tower Height 80'</description>
+			<Point>
+				<coordinates>-70.21570833333334,41.688138888888886</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</kml>

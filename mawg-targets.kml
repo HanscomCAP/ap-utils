@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Folder xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+		<Placemark>
+			<name>MA_1</name>
+			<description>FEMA Franklin Warehouse
+Circle Around Location</description>
+			<Point>
+				<coordinates>-71.439191,42.08206</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_2</name>
+			<description>Route 6 Corridor
+Nadir</description>
+			<Point>
+				<coordinates>-70.120194,41.679944</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_2A</name>
+			<description>Route 6 Corridor
+Nadir</description>
+			<Point>
+				<coordinates>-70.957222,41.636333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_3</name>
+			<description>Quabbin Reservoir NW Corner
+&quot;Oblique towards SE&quot;</description>
+			<Point>
+				<coordinates>-72.383067,42.449918</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_4</name>
+			<description>Quabbin Reservoir NE Corner
+&quot;Oblique towards SW&quot;</description>
+			<Point>
+				<coordinates>-72.280001,42.501661</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_5</name>
+			<description>Quabbin Reservoir SE Corner
+&quot;Oblique towards NW&quot;</description>
+			<Point>
+				<coordinates>-72.291838,42.295928</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_6</name>
+			<description>Quabbin Reservoir SW Corner
+&quot;Oblique towards NE&quot;</description>
+			<Point>
+				<coordinates>-72.354817,42.28029</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_7</name>
+			<description>Wachusett Reservoir 
+&quot;Oblique towards SE&quot;</description>
+			<Point>
+				<coordinates>-71.799697,42.385036</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_8</name>
+			<description>Wachusett Reservoir 
+&quot;Oblique towards NE&quot;</description>
+			<Point>
+				<coordinates>-71.760705,42.354788</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_9</name>
+			<description>Wachusett Reservoir 
+&quot;Oblique towards N&quot;</description>
+			<Point>
+				<coordinates>-71.754514,42.339537</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_10</name>
+			<description>Wachusett Reservoir 
+&quot;Oblique towards NW&quot;</description>
+			<Point>
+				<coordinates>-71.746382,42.35425</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MA_11</name>
+			<description>Wachusett Reservoir 
+&quot;Oblique towards SW&quot;</description>
+			<Point>
+				<coordinates>-71.69528,42.407241</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</kml>

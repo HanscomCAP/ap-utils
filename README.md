@@ -1,12 +1,12 @@
 # ap-utils
 Utilities for planning AP sorties
 
-## csv2kml
+## csv2kml.py
 Convert a CSV file containing photo targets into an equivalent KML file that can be imported into Google Earth or ForeFlight.
 
 Usage:
 
-```python csv2kml <filename>```
+```python csv2kml.pypyth <filename>```
 
 The CSV file format is somewhat flexible, but it must have the following columns (names are case-insensitive):
 * Task # or Imagery ID
@@ -43,3 +43,7 @@ See https://developers.google.com/kml/documentation for complete documentation o
 	</Folder>
 </kml>
 ```
+
+### Samples
+
+See targets.csv / targets.kml and mawg-targets.csv / mawg-targets.kml for example inputs and outputs.

@@ -1,0 +1,186 @@
+Imagery ID,State,Description,Special Instructions,START LONGITUDE,START LATITUDE,STOP LONGITUDE,STOP LATITUDE,Requested By
+MA_001_YYYYMMDD_01,MA,Boston IR Network Site,Oblique coverage from 3 sides of the antennas on the roof penthouse,-71.073027,42.341824,,,Rob Reinke - OIB/DEC
+MA_002_YYYYMMDD_01,MA,Mashpee Wampanoag - Tribal Government Office,Oblique coverage from all directions,-70.476021,41.595735,,,Regina Marotto - Recovery
+MA_003_YYYYMMDD_01,MA,Wampanoag Tribe of Gay Head (Aquinnah) of Massachusetts - Tribal Government Office,Oblique coverage from all directions,-70.79974,41.33127,,,Regina Marotto - Recovery
+MA_004_YYYYMMDD_01,MA,Sagamore Bridge,,-70.542155,41.779528,-70.542442,41.7735,"Terry Hermans, Logistics/MA TF1/CISA"
+MA_005_YYYYMMDD_01,MA,Bourne Bridge,,-70.592629,41.749577,-70.589878,41.744226,"Terry Hermans, Logistics/MA TF1/CISA"
+MA_006_YYYYMMDD_01,MA,The North Shore Coast from the Center of Plum Island North to New Hampshire Border,,-70.805175,42.790022,-70.814239,42.872108,USACE & Others (Coastline)
+MA_007_YYYYMMDD_01,MA,East end of the Canal in Sandwich southeast to Scorton inlet,,-70.425069,41.751397,-70.492144,41.776439,USACE & Others (Coastline)
+MA_008_YYYYMMDD_01,MA,Chatham from the south end of the old inlet north across the new breaches to the barier off Pleasant Bay,,-69.950217,41.637472,-69.920392,41.748094,USACE & Others (Coastline)
+MA_009_YYYYMMDD_01,MA,Plymouth Long Beach,,-70.627383,41.946456,-70.65135,41.980167,USACE & Others (Coastline)
+MA_010_YYYYMMDD_01,MA,US Dept of Agriculture APHIS Pest Survey Detection and Exclusion Laboratory,Oblique coverage from all directions,-70.55604,41.657,,,CISA
+MA_011_YYYYMMDD_01,MA,Barnstable Municipal Airport,Oblique coverage from all directions (e.g. a circle around the airport),-70.2874566,41.6655056,,,CISA
+MA_012_YYYYMMDD_01,MA,Boston Logan International Airport (BOS),Oblique coverage from all directions (e.g. a circle around the airport),-71.02089,42.36678,,,CISA
+MA_013_YYYYMMDD_01,MA,L.G. Hanscom Field,Oblique coverage from all directions (e.g. a circle around the airport),-71.2907531,42.4624057,,,CISA
+MA_014_YYYYMMDD,MA,Wachusett Dam,,-71.6881,42.40367,,,CISA
+MA_015_YYYYMMDD,MA,Exelon - Fore River Generating Plant,,-70.962091,42.24287,,,CISA
+MA_016_YYYYMMDD,MA,Salem Harbor Station - Dominion,,-70.8799011,42.5264977,,,CISA
+MA_017_YYYYMMDD,MA,American National Power Backstone 345kV Substation,,-71.5212778,42.0517292,,,CISA
+MA_018_YYYYMMDD,MA,Independent System Operator - New England (ISO-NE) Control Center,,-72.63833,42.18576,,,CISA
+MA_019_YYYYMMDD,MA,Exelon Corp. Mystic Substation,,-71.06695,42.39304,,,CISA
+MA_020_YYYYMMDD,MA,American National Power Bellingham 345 kV Substation,,-71.4234973,42.153315,,,CISA
+MA_021_YYYYMMDD,MA,Barnstable Substation 345kV,,-70.284755,41.685981,,,CISA
+MA_022_YYYYMMDD,MA,Carver 345 kV Substation ,,-70.788367,41.898067,,,CISA
+MA_023_YYYYMMDD,MA,Sandy Pond 237 Substation,,-71.5310141,42.5688701,,,CISA
+MA_024_YYYYMMDD,MA,FEMA Federal Regional Operations Center (ROC),,-71.44808,42.41102,,,CISA
+MA_025_YYYYMMDD,MA,Conley Container Terminal - Port of Boston,,-71.0245055,42.3394489,,,CISA
+MA_026_YYYYMMDD,MA,Steamship Authority - Woods Hole,,-70.66957,41.523237,,,CISA
+MA_027_YYYYMMDD,MA,Steamship Authority - Oak Bluffs,,-70.554543,41.462283,,,CISA
+MA_028_YYYYMMDD,MA,Steamship Authority - New Bedford,,-70.9243727,41.6359245,,,CISA
+MA_029_YYYYMMDD,MA,Steamship Authority - Tisbury - Vineyard Haven,,-70.672989,41.53531,,,CISA
+MA_030_YYYYMMDD,MA,Steamship Authority - Hyannis,,-70.2764372,41.6519007,,,CISA
+MA_031_YYYYMMDD,MA,Steamship Authority - Nantucket,,-70.097224,41.285678,,,CISA
+MA_032_YYYYMMDD,MA,Black Falcon Cruise Terminal,,-71.0396,42.3460015,,,CISA
+MA_033_YYYYMMDD,MA,Port of Boston,,-71.0199,42.3409,,,CISA
+MA_034_YYYYMMDD,MA,MBTA - North Station,,-71.061154,42.36549,,,CISA
+MA_035_YYYYMMDD,MA,Cape Cod Regional Transit Authority Hyannis Transportation Center,,-70.27738,41.66091,,,CISA
+MA_036_YYYYMMDD,MA,MBTA - South Station,,-71.05511,42.35181,,,CISA
+MA_037_YYYYMMDD,MA,Otis Air National Guard Base,,-70.5157167,41.6480963,,,CISA
+MA_038_YYYYMMDD,MA,US Coast Guard Base,,-71.0525523,42.3672214,,,CISA
+MA_039_YYYYMMDD,MA,Hanscom Air Force Base,,-71.2736719,42.4607697,,,CISA
+MA_040_YYYYMMDD,MA,Salem LNG,,-70.8870352,42.5347515,,,CISA
+MA_041_YYYYMMDD,MA,Distrigas of Massachusetts LLC Everett Marine LNG Terminal,,-71.0601,42.3954,,,CISA
+MA_042_YYYYMMDD,MA,Bosfuel / Swissport Fueling Inc. ,,-71.025015,42.3754626,,,CISA
+MA_043_YYYYMMDD,MA,CSXI Stackbridge Terminal ,,-71.8097157,42.249465,,,CISA
+MA_044_YYYYMMDD,MA,CSXI Marshalling & Switching Yard,,-71.4201084,42.2794678,,,CISA
+MA_045_YYYYMMDD,MA,MWRA Cosgrove Intake and Power Station,,-71.684819,42.396153,,,CISA
+MA_046_YYYYMMDD,MA,Central Artery / Tunnel Project,,-71.05974197,42.34611159,,,CISA
+MA_047_YYYYMMDD,MA,Callahan Tunnel,,-71.0433,42.3695,,,CISA
+MA_048_YYYYMMDD,MA,Sumner Tunnel,,-71.04662,42.3683,,,CISA
+MA_049_YYYYMMDD,MA,John Greenleaf Whittier Bridge,,-70.9111304,42.8348616,,,CISA
+MA_050_YYYYMMDD,MA,Tobin Memorial Bridge,,-71.023386,42.3666595,,,CISA
+MA_051_YYYYMMDD,MA,Raytheon Headquarters,,-71.2139794,42.3713298,,,CISA
+MA_052_YYYYMMDD,MA,MWRA Bear Hill Tank,,-71.1069,42.4653,,,CISA
+MA_053_YYYYMMDD,MA,MWRA Deer Island Wastewater Treatment Plant (DITP),,-70.95821,42.35141,,,CISA
+MA_054_YYYYMMDD,MA,MWRA John J. Carroll Water Treatment Facility,,-71.58518,42.31134,,,CISA
+MA_055_YYYYMMDD,MA,MIT Lincoln Labs,,-71.26721,42.45981,,,CISA
+MA_056_YYYYMMDD,MA,Conant Brook Dam,,-72.290054,42.073977,,,USACE 
+MA_057_YYYYMMDD,MA,Westville Dam,,-72.058558,42.082808,,,USACE 
+MA_058_YYYYMMDD,MA,Barre Falls Dam,,-72.025584,42.428002,,,USACE 
+MA_059_YYYYMMDD,MA,Plum Island,,-70.778714,42.700669,-70.81305,42.825664,MA TF1
+MA_060_YYYYMMDD,MA,Cape Cod Canal Railroad Bridge,,-70.613542,41.741981,,,MA TF1
+MA_061_YYYYMMDD,MA,Braga Bridge,,-71.170144,41.709039,,,MA TF1
+MA_062_YYYYMMDD,MA,195 Bridge,,-70.917714,41.654775,,,MA TF1
+MA_063_YYYYMMDD,MA,Fox Point Hurricane Barrier,,-71.401722,41.815933,,,MA TF1
+MA_064_YYYYMMDD,MA, Arlington-Turkey Hill,Tower Height 70',71  10 23.8 W,42  25  56.7 N,,,MA EMA
+MA_065_YYYYMMDD,MA,Acushnet-Mendal Hill,Tower Height 68',70 52 59.97 W,41 42 02.7 N,,,MA EMA
+MA_066_YYYYMMDD,MA,Adams Mt Greylock WTEN,,-73.16836,42.6371,,,MA EMA
+MA_067_YYYYMMDD,MA,Adams-Mt Greylock MSP (Analog),Tower Height 20',73 09 55.91 W,42 38 10.54 N,,,MA EMA
+MA_068_YYYYMMDD,MA,Amesbury-Pow Wow Hill,Tower Height 95',70 56 20.4 W,42 51 55.9 N,,,MA EMA
+MA_069_YYYYMMDD,MA,Andover-Holt Hill Andover,Tower Height 160',71 06 25.19 W,42 38 29.2 N,,,MA EMA
+MA_070_YYYYMMDD,MA,Athol-Adams Hill,Tower Height 160',72 11 47.36 W,42 35 38.31 N,,,MA EMA
+MA_071_YYYYMMDD,MA,Attleboro-Tower Site Rd,Tower Height 180',71 18 41.8 W,41 55 46.2 N,,,MA EMA
+MA_072_YYYYMMDD,MA,Becket,,-73.13211,42.27719,,,MA EMA
+MA_073_YYYYMMDD,MA,Blandford,,-73.0144,42.17173,,,MA EMA
+MA_074_YYYYMMDD,MA,Boston Schroeder Plaza BPD,,71 05 23.68 W,42 20 04.47 N,,,MA EMA
+MA_075_YYYYMMDD,MA,Boston-Bellevue Hill,Tower Height 100',71 08 38.2 W,42 16 24.4 N,,,MA EMA
+MA_076_YYYYMMDD,MA,Boston-Brighton High School,Tower Height 95',71 08 46.3 W,42 20 57.12 N,,,MA EMA
+MA_077_YYYYMMDD,MA,Boston-Engine 55,Tower Height 40',71 09 18.3 W,42 15 50.5 N,,,MA EMA
+MA_078_YYYYMMDD,MA,Boston-Lincoln Street,Tower Height 495',71 03 31 W,42 21 10 N,,,MA EMA
+MA_079_YYYYMMDD,MA,Boston-McCormick Building,Tower Height 299',71 03 44.92 W,42 21 34.9 N,,,MA EMA
+MA_080_YYYYMMDD,MA,Bourne-Fire Tower,Tower Height 68',70 34 11.6 W,41 46 26 N,,,MA EMA
+MA_081_YYYYMMDD,MA,Brewster-SBA,Tower Height 470',70 00 35.6 W,41 46 36.9 N,,,MA EMA
+MA_082_YYYYMMDD,MA,Bridgewater-DOC,Tower Height 70',70 57 26.2 W,41 56 48.01 N,,,MA EMA
+MA_083_YYYYMMDD,MA,Bridgewater-MEMA,Tower Height 130',70 57 05.9 W,41 56 39.8 N,,,MA EMA
+MA_084_YYYYMMDD,MA,Brimfield-Steerage Rock,Tower Height 68',72 13 27.25 W,42 08 31.29 N,,,MA EMA
+MA_085_YYYYMMDD,MA,Canton-Blue Hill MSP,,71 06 54.1 W,42 12 42.3 N,,,MA EMA
+MA_086_YYYYMMDD,MA,Charlemont Berkshire East,,-72.87012,42.61401,,,MA EMA
+MA_087_YYYYMMDD,MA,Charlton-Fire Tower,Tower Height 68',71 58 18.0 W,42 10 07.0 N,,,MA EMA
+MA_088_YYYYMMDD,MA,Charlton-MDOT,Tower Height 180',71 58 18.48 W,42 10 08.55 N ,,,MA EMA
+MA_089_YYYYMMDD,MA,Chelmsford-Robbins Hill,Tower Height 65',71 21 53.77 W,42 35 05.98 N,,,MA EMA
+MA_090_YYYYMMDD,MA,Chester DCR Garage,,72 55 24.9 W,42 14 49.1 N,,,MA EMA
+MA_091_YYYYMMDD,MA,Chester Fire Tower,,72 57 26.7 W,42 19 28.9 N,,,MA EMA
+MA_092_YYYYMMDD,MA,Chesterfield SBA,,-72.79872188,42.36122222,,,MA EMA
+MA_093_YYYYMMDD,MA,Colrain NEU,,-72.68301,42.66817,,,MA EMA
+MA_094_YYYYMMDD,MA,Cummington,,72 55 00.3 W,42 28 39.08 N,,,MA EMA
+MA_095_YYYYMMDD,MA,Danvers AHQ,,70 58 07.3 W,42 35 08.8 N,,,MA EMA
+MA_096_YYYYMMDD,MA,East Brookfield Connie Mack Drive,,-72.05227,42.22542,,,MA EMA
+MA_097_YYYYMMDD,MA,Essex-Morse Hill,Tower Height 68',70 45 32.1 W,42 36 04.87 N,,,MA EMA
+MA_098_YYYYMMDD,MA,Fall River-Copicut Hill,Tower Height 180',71 03 34.8 W,41 43 15.8 N,,,MA EMA
+MA_099_YYYYMMDD,MA,Fitchburg-Rollstone Hill,Tower Height 120',71 48 36.8 W,42 34 46.7 N,,,MA EMA
+MA_100_YYYYMMDD,MA,Framingham-DOC,Tower Height 50',71 24 20.03 W,42 15 56.1 N,,,MA EMA
+MA_101_YYYYMMDD,MA,Framingham-GHQ,Tower Height 180',71 24 54.4 W,42 17 43.6 N,,,MA EMA
+MA_102_YYYYMMDD,MA,Framingham-Nobscott,Tower Height 220',71 27 03.2 W,42 20 43.3 N,,,MA EMA
+MA_103,MA,Georgetown-Long Hill ,Tower Height 150',70 57 17.2 W,42 43 01.8 N,,,MA EMA
+MA_104,MA,Goshen Fire Station,,72 48 00.25 W,42 26 35.8 N,,,MA EMA
+MA_105,MA,Granville ATC,,-72.92589,42.08783,,,MA EMA
+MA_106,MA,Granville Birch Hill,,-72.89308,42.09468,,,MA EMA
+MA_107,MA,Great Barrington Butternut,,-73.31327,42.17267,,,MA EMA
+MA_108,MA,Hadley-Mt Tom (Analog),Tower Height 180',072 38 41.8 W,42 14 59.2 N,,,MA EMA
+MA_109,MA,Hanson-Industrial Blvd,Tower Height 300',70 54 00.0 W,42 02 56.0 N,,,MA EMA
+MA_110,MA,Harvard-Pinnacle Rd,Tower Height 65',71 33 31.3 W,42 30 17.03 N,,,MA EMA
+MA_111,MA,Harwich-Rte 39 WT,124' Catwalk 147'  top of Tank,70 02 59.73 W,41 41 42.07 N,,,MA EMA
+MA_112,MA,Haverhill-Lovers Lane ,Tower Height 120',71 03 29.57 W,42 48 25.7 N,,,MA EMA
+MA_113,MA,Holden CHQ,,71 50 09.9 W,42 20 17.3 N,,,MA EMA
+MA_114,MA,Holden MSP Tower,,71 50 09.08 W,42 20 17.96 N,,,MA EMA
+MA_115,MA,Holland Route 49,,-72.145,42.06994,,,MA EMA
+MA_116,MA,Holyoke Mt Tom,,-72.64497,42.24979,,,MA EMA
+MA_117,MA,Lenox Lenox Mt,,-73.31093,42.39333,,,MA EMA
+MA_118,MA,Mashpee SBA,Tower Height 250',70 29 19.4 W,41 36 13.6 N,,,MA EMA
+MA_119,MA,Mendon-Chestnut Hill,Tower Height 68',71 34 23.0 W,42 03 54.0 N,,,MA EMA
+MA_120,MA,Middleboro DHQ Shelter/Tower,Tower Height 330',70 56 34.47 W,41 53 35.53 N,,,MA EMA
+MA_121,MA,Middleboro DHQ,,70 56 33.34 W,41 53 37.75 N,,,MA EMA
+MA_122,MA,Milton-Blue Hill DCR,Tower Height 230',71 06 49.25 W,42 12 42.59 N,,,MA EMA
+MA_123,MA,Monson -Hovey Hill,Tower Height 180',72 20 19.71 W,42 08 27.93 N,,,MA EMA
+MA_124,MA,Montegue Country Hill,Tower Height 120',72 28 33.1 W,42 33 39.8 N,,,MA EMA
+MA_125,MA,Monterey Mt Wilcox,,-73.26601,42.21888,,,MA EMA
+MA_126,MA,Mt Washington - Mt Darby,,-73.45638,42.13256,,,MA EMA
+MA_127,MA,New Ashford Brodie Mt,,-73.27109,42.59794,,,MA EMA
+MA_128,MA,New Braintree RECC,,72 08 04.4 W,42 18 36.02 N,,,MA EMA
+MA_129,MA,New Braintree-Tower,Tower Height 225',72 08 07.2 W,42 18 42.3 N,,,MA EMA
+MA_130,MA,North Adams,,-73.06453,42.69839,,,MA EMA
+MA_131,MA,North Brookfield Bell Hill,,-72.08614,42.28143,,,MA EMA
+MA_132,MA,Northampton RECC,,72 38 24.39 W,42 21 16.11 N,,,MA EMA
+MA_133,MA,Northampton Shelter/Tower,,72 38 22.26 W,42 21 16.99 N,,,MA EMA
+MA_134,MA,Norwell-Judges Hill,Tower Height 68',70 49 16.97 W,42 11 31.94 N,,,MA EMA
+MA_135,MA,Oxford-Fire Tower,Tower Height 68',71 48 51.0 W,42 06 03.0 N,,,MA EMA
+MA_136,MA,Pelham Mount Lincoln,,-72.42319,42.36375,,,MA EMA
+MA_137,MA,Peru,,-73.05354,42.43652,,,MA EMA
+MA_138,MA,Philipston-Prospect Hill,Tower Height 68',72 10 17.7 W,42 32 39.8 N,,,MA EMA
+MA_139,MA,Pittsfield Berry Mt,,-73.31557,42.50229,,,MA EMA
+MA_140,MA,Plainfield NEU,,-72.91501,42.52586,,,MA EMA
+MA_141,MA,Plymouth-Pine Hill,Tower Height 68',70 35 24.28 W,41 54 57.16 N,,,MA EMA
+MA_142,MA,Princeton-Mt Wachusett MDOT Shelter,,71 53 11.4 W,42 29 17.2 N,,,MA EMA
+MA_143,MA,Princeton-Mt Wachusett Parker Lodge,,71 53 12.0 W,42 29 17.6 N,,,MA EMA
+MA_144,MA,Quincy-Industrial,Tower Height 700',"71° 02' 54.0"" W","42° 14' 49.0"" N",,,MA EMA
+MA_145,MA,Rehoboth-Long Hill,Tower Height 68',71 12 07.1 N,41 50 12.65 N,,,MA EMA
+MA_146,MA,Revere-TF Carroll Way,Tower Height 60',71 01 18.2 W,42 24 34.1 N,,,MA EMA
+MA_147,MA,Russell AT,,-72.83805,42.17276,,,MA EMA
+MA_148,MA,Sandisfield FD ,,-73.075633,42.089203,,,MA EMA
+MA_149,MA,Sandwich-Telegraph Hill,Tower Height 68',70 29 10.55 W ,41 44 00.86 N,,,MA EMA
+MA_150,MA,Savoy Borden Mt FT,,-73.02755,42.60116,,,MA EMA
+MA_151,MA,Sheffield,,-73.36633,42.12822,,,MA EMA
+MA_152,MA,Shelburne Falls Bray Rd,,-72.75299,42.57715,,,MA EMA
+MA_153,MA,Shelburne Falls RECC,,72 43 41.51 W,42 35 44.13 N,,,MA EMA
+MA_154,MA,Shelburne Falls Shelter/Tower,,72 38 24.39 W,42 35 44.23 N,,,MA EMA
+MA_155,MA,Shelburne Mt. Massamet SBA,,-72.71163,42.59749,,,MA EMA
+MA_156,MA,Shelburne-Shelburne Mtn (Analog),Tower Height 130',-72.64464,42.57217,,,MA EMA
+MA_157,MA,Shirley-DOC,,71 39 20.0 W,42 31 35.24 N,,,MA EMA
+MA_158,MA,Springfield Tower Square,,-72.59167,42.10279,,,MA EMA
+MA_159,MA,Stockbridge FD,,-73.3054,42.28224,,,MA EMA
+MA_160,MA,Sturbridge Sturbridge Barracks,,72 04 58.97 W,42 06 43.15 N,,,MA EMA
+MA_161,MA,Sunderland MT. Toby,,-72.53759,42.48803,,,MA EMA
+MA_162,MA,Tewksbury-MEMA,Tower Height 150',71-13-13.0 W,42-36-30.5 N,,,MA EMA
+MA_163,MA,Tolland-Public Safety,,73  00  13.96 W,42 04 51.14 N,,,MA EMA
+MA_164,MA,Truro-Truro PD,Tower Height 150',70 04 29.6 W,42 01 18.7 N,,,MA EMA
+MA_165,MA,W Barnstable-Clay Hill,Tower Height 68',70 21 27.6 W,41 41 06.56 N,,,MA EMA
+MA_166,MA,W Brookfield-Ragged Hill CATV,Tower Height 180',72 10 59.5 W,42 17 18.11 N,,,MA EMA
+MA_167,MA,W Brookfield-Ragged Hill Fire Tower,Tower Height 68',72 11 02.95 W,42 17 15.92 N,,,MA EMA
+MA_168,MA,W. Falmouth-Fire Tower,Tower Height 68',70 37 03.7 W,41 35 52.8 N,,,MA EMA
+MA_169,MA,Walpole-DOC,Tower Height 150',71 17 17.2 W,42 06 30.0 N,,,MA EMA
+MA_170,MA,Ware-Quabbin Tower,Tower Height 60',72 20 04.5 W,42 17 55.9 N,,,MA EMA
+MA_171,MA,Warwick Mt Grace,,72 21 13.0 W,42 41 27.8 N,,,MA EMA
+MA_172,MA,Webster-Industrial ,Tower Height 660',71 49 04.0 W,42 03 13.0 N,,,MA EMA
+MA_173,MA,Wellfleet-Gross Hill Rd,Tower Height 80',70 01 02.6 W,41 56 50.03 N,,,MA EMA
+MA_174,MA,Westboro-Mt Nebo,Tower Height 160',71 34 02.1 W,42 17 35.5 N,,,MA EMA
+MA_175,MA,Westfield CCH,,72 41 52.4 W,42 06 42.08 N,,,MA EMA
+MA_176,MA,Wilbraham KGI,,72 24 36.79 W,42 07 11.4 N,,,MA EMA
+MA_177,MA,Williamsburg,,-72.74657,42.40132,,,MA EMA
+MA_178,MA,Williamstown Greylock High School,,73 14 23.6 W,42 40 18.8 N,,,MA EMA
+MA_179,MA,Worcester Millstone Hill City Shelter,,71 46 53.46 W,42 16 36.5 N,,,MA EMA
+MA_180,MA,Worcester Millstone Hill MSP Shelter,,71 46 53.59 W,42 16 36.09 N,,,MA EMA
+MA_181,MA,Worcester-Ballard Truck,Tower Height 150',71 46 26 W,42 13 19 N,,,MA EMA
+MA_182,MA,Worcester-Millstone Hill Tower,Tower Height 170',71 46 53.5 W,42 16 36.3 N,,,MA EMA
+MA_183,MA,Worcester-Worcester Airport,Tower Height 40',71 52 16 W,42 16 11 N,,,MA EMA
+MA_184,MA,Wrentham-AT&T,Tower Height 180',71 17 31.85 W,42 03 31.8 N,,,MA EMA
+MA_185,MA,Yarmouth-Workshop Rd,Tower Height 80',70 12 56.55 W,41 41 17.3 N,,,MA EMA

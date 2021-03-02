@@ -1,0 +1,13 @@
+Task #,State,Description,Special Instructions,START LONGITUDE,START LATITUDE,STOP LONGITUDE,STOP LATITUDE,Requested By,Date Completed,Sortie #
+1,MA,FEMA Franklin Warehouse,Circle Around Location,-71.439191,42.082060,,,Region 1,,
+2,MA,Route 6 Corridor,Nadir,-70.120194,41.679944,-70.957222,41.636333,,,
+2A,MA,Route 6 Corridor,Nadir,-70.957222,41.636333,,,
+3,MA ,Quabbin Reservoir NW Corner,"Oblique towards SE",-72.383067,42.449918,,,MEMA,,
+4,MA ,Quabbin Reservoir NE Corner,"Oblique towards SW",-72.280001,42.501661,,,MEMA,,
+5,MA ,Quabbin Reservoir SE Corner,"Oblique towards NW",-72.291838,42.295928,,,MEMA,,
+6,MA ,Quabbin Reservoir SW Corner,"Oblique towards NE",-72.354817,42.280290,,,MEMA,,
+7,MA ,Wachusett Reservoir ,"Oblique towards SE",-71.799697,42.385036,,,MEMA,,
+8,MA ,Wachusett Reservoir ,"Oblique towards NE",-71.760705,42.354788,,,MEMA,,
+9,MA ,Wachusett Reservoir ,"Oblique towards N",-71.754514,42.339537,,,MEMA,,
+10,MA ,Wachusett Reservoir ,"Oblique towards NW",-71.746382,42.354250,,,MEMA,,
+11,MA ,Wachusett Reservoir ,"Oblique towards SW",-71.695280,42.407241,,,MEMA,,
