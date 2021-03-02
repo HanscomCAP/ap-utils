@@ -47,3 +47,7 @@ See https://developers.google.com/kml/documentation for complete documentation o
 ### Samples
 
 See targets.csv / targets.kml and mawg-targets.csv / mawg-targets.kml for example inputs and outputs.
+
+Here is what the targets list looks like in Google Earth:
+
+![targets.kml in Google Earth](targets.png?raw=true)
