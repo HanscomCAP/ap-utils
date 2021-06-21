@@ -14,7 +14,7 @@ def isfloat(value):
 # Convert a DMS string into decimal degrees allowing either ' ' or '-' as delimiters.
 # Assume N and W hemispheres unless specified otherwise.
 def convertDMS(dms):
-    dms = dms.split(' ')
+    dms = dms.strip('Â ').split(' ')
     for item in dms:
         if (item == ''):
             dms.remove(item)
@@ -81,7 +81,7 @@ def ProcessFile(filename):
         'xmlns': 'http://www.opengis.net/kml/2.2'} )
 
     with open(filename, newline='') as targets:
-        targetreader = csv.reader(targets, delimiter=',', quotechar='|')
+        targetreader = csv.reader(targets, delimiter=',', quotechar='"')
         firstrow = True
         for row in targetreader:
             if (firstrow):
@@ -90,7 +90,7 @@ def ProcessFile(filename):
                 colNum = 0
                 for heading in row:
                     heading = heading.lower()
-                    if (heading == 'task #' or heading == 'imagery id'):
+                    if (heading.startswith('task') or heading.startswith('id') or heading == 'imagery id'):
                         idCol = colNum
                     elif (heading == 'state'):
                         stateCol = colNum
@@ -121,7 +121,7 @@ def ProcessFile(filename):
             if (row[instCol] != ''):
                 description = description + '\n' + row[instCol]
 
-            if (row[stopLongCol] == ''): # Single Waypoint
+            if (row[stopLongCol].replace("\xc2\xa0", " ").strip(' ') == ''): # Empty string or spaces only => Single Waypoint
                 MakePlacemark(folder, name, description, row[startLongCol], row[startLatCol])
             else: # Start and Stop Waypoints
                 MakePlacemark(folder, name + '_START', description, row[startLongCol], row[startLatCol])
