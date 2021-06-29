@@ -4,15 +4,18 @@ import csv
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
+
 def isfloat(value):
-  try:
-    float(value)
-    return True
-  except ValueError:
-    return False
+    try:
+        float(value)
+        return True
+    except ValueError:
+        return False
 
 # Convert a DMS string into decimal degrees allowing either ' ' or '-' as delimiters.
 # Assume N and W hemispheres unless specified otherwise.
+
+
 def convertDMS(dms):
     dms = dms.strip('Â ').split(' ')
     for item in dms:
@@ -48,7 +51,7 @@ def MakeCoordinates(lon, lat):
             lon = -lon
     else:
         lon = convertDMS(lon)
-    
+
     if (isfloat(lat)):
         lat = float(lat)
     else:
@@ -58,19 +61,24 @@ def MakeCoordinates(lon, lat):
 
 # This attempts to generate a standardized name using the target id and state name, accounting for observed variability in input formats
 # If the name has two or more parts, use the first two parts.  If it has only one part, prepend the value from the State column
+
+
 def MakeStandardName(name, state):
     parts = name.split('_')
     if (len(parts) > 1):
         return parts[0] + '_' + parts[1]
     return state.strip(' ') + '_' + name
 
+
 def MakePlacemark(folder, name, description, longitude, latitude):
     placemark = ET.SubElement(folder, 'Placemark')
     ET.SubElement(placemark, 'name').text = name
     ET.SubElement(placemark, 'description').text = description
     point = ET.SubElement(placemark, 'Point')
-    ET.SubElement(point, 'coordinates').text = MakeCoordinates(longitude, latitude)
+    ET.SubElement(point, 'coordinates').text = MakeCoordinates(
+        longitude, latitude)
     return placemark
+
 
 def ProcessFile(filename):
     kml = ET.Element('kml', {'xmlns': 'http://www.opengis.net/kml/2.2'})
@@ -78,7 +86,7 @@ def ProcessFile(filename):
     folder = ET.SubElement(kml, 'Folder', {
         'xmlns:gx': 'http://www.google.com/kml/ext/2.2',
         'xmlns:atom': 'http://www.w3.org/2005/Atom',
-        'xmlns': 'http://www.opengis.net/kml/2.2'} )
+        'xmlns': 'http://www.opengis.net/kml/2.2'})
 
     with open(filename, newline='') as targets:
         targetreader = csv.reader(targets, delimiter=',', quotechar='"')
@@ -121,11 +129,15 @@ def ProcessFile(filename):
             if (row[instCol] != ''):
                 description = description + '\n' + row[instCol]
 
-            if (row[stopLongCol].replace("\xc2\xa0", " ").strip(' ') == ''): # Empty string or spaces only => Single Waypoint
-                MakePlacemark(folder, name, description, row[startLongCol], row[startLatCol])
-            else: # Start and Stop Waypoints
-                MakePlacemark(folder, name + '_START', description, row[startLongCol], row[startLatCol])
-                MakePlacemark(folder, name + '_STOP', description, row[stopLongCol], row[stopLatCol])
+            # Empty string or spaces only => Single Waypoint
+            if (row[stopLongCol].replace("\xc2\xa0", " ").strip(' ') == ''):
+                MakePlacemark(folder, name, description,
+                              row[startLongCol], row[startLatCol])
+            else:  # Start and Stop Waypoints
+                MakePlacemark(folder, name + '_START', description,
+                              row[startLongCol], row[startLatCol])
+                MakePlacemark(folder, name + '_STOP', description,
+                              row[stopLongCol], row[stopLatCol])
 
     dom = minidom.parseString(ET.tostring(kml))
     kmlfilename = os.path.splitext(filename)[0] + '.kml'
@@ -134,8 +146,10 @@ def ProcessFile(filename):
     kmlfile.write(dom.toprettyxml(encoding='UTF-8'))
 
 
-if (len(sys.argv) < 2):
-    print('Usage: python ' + sys.argv[0] + ' [csvfilename]' )
-    quit()
+if __name__ == "__main__":
+    if (len(sys.argv) < 2):
+        print('Usage: python ' + sys.argv[0] + ' [csvfilename]')
+        quit()
 
-ProcessFile(sys.argv[1]) # mawg-targets.csv
+    # mawg-targets.csv
+    ProcessFile(sys.argv[1])
